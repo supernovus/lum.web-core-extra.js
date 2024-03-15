@@ -27,4 +27,4 @@ Timothy Totten <2010@totten.ca>
 [MIT](https://spdx.org/licenses/MIT.html)
 
 
-[@lumjs/web-core](https://github.com/supernovus/lum.web-core.js)
+[@lumjs/web-core]: https://github.com/supernovus/lum.web-core.js
